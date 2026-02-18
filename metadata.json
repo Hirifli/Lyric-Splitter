@@ -1,0 +1,5 @@
+{
+  "name": "LyricSplitter",
+  "description": "A specialized tool to split mixed-line lyrics (original + translation) into separate lines with synchronized timestamps.",
+  "requestFramePermissions": []
+}
