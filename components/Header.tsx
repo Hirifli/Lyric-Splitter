@@ -1,5 +1,5 @@
 import React from 'react';
-import { Music, ArrowRightLeft } from 'lucide-react';
+import { Music } from 'lucide-react';
 
 const Header: React.FC = () => {
   return (
